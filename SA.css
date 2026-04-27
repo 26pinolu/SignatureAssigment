@@ -11,6 +11,9 @@ header {
     padding: 25px;
     text-align: center;
 }
+p{text-align:justify;}
+section a{margin-left:30px;}
+footer p{text-align:center;}
 
 nav {
     margin-top: 15px;
