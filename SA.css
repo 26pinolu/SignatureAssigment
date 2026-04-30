@@ -28,7 +28,7 @@ nav a {
     text-decoration: none;
     font-weight: bold;
     display: inline-block;
-}
+	}
 
 nav a:hover {
     background: #005fa3;
