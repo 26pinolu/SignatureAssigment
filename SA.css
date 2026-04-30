@@ -15,9 +15,7 @@ p{text-align:justify; line-height:1.5;}
 section a{margin-left:30px;}
 footer p{text-align:center;}
 
-nav {
-    margin-top: 15px;
-}
+nav {margin-top: 15px;}
 
 nav a {
     background: #0077cc;
@@ -30,9 +28,7 @@ nav a {
     display: inline-block;
 	}
 
-nav a:hover {
-    background: #005fa3;
-}
+nav a:hover {background: #005fa3;}
 
 section {
     padding: 30px;
@@ -49,17 +45,13 @@ table {
     margin-top: 15px;
 	text-align:center;
 }
-tr:nth-of-type(odd) {
-  background-color: #ECF9EC;
-}
+tr:nth-of-type(odd) {background-color: #ECF9EC;}
 table th, table td {
     border: 1px solid #ccc;
     padding: 10px;
 }
 
-table th {
-    background: #eaeaea;
-}
+table th {background: #eaeaea;}
 
 form {
     display: grid;
@@ -83,9 +75,7 @@ button {
     cursor: pointer;
 }
 
-button:hover {
-    background: #005fa3;
-}
+button:hover {background: #005fa3;}
 
 footer {
     background: #1a1a1a;
@@ -96,9 +86,7 @@ footer {
 }
 
 @media (max-width: 37.5em) {
-    header {
-        padding: 20px;
-    }
+    header {padding: 20px;}
 
     nav a {
         display: block;
@@ -118,9 +106,7 @@ footer {
         padding: 8px;
     }
 
-    input, textarea {
-        font-size: 1rem;
-    }
+    input, textarea {font-size: 1rem;}
 
     button {
         width: 100%;
@@ -152,13 +138,9 @@ footer {
         font-size: 1rem;
     }
 
-    section {
-        padding: 25px;
-    }
+    section {padding: 25px;}
 
-    table th, table td {
-        font-size: 1rem;
-    }
+    table th, table td {font-size: 1rem;}
 }
 .item {
         display: flex;
